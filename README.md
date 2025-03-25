@@ -9,7 +9,7 @@ I'm a passionate about Deep Learning with a keen interest in Quantum Deep Learni
 - 🌱 I’m currently learning:
     - **Geometric Deep Learning** : Equivariances and Symmetries in Machine Learning
     - **Quantum Machine Learning** : Equivariant QNNs, QML algorithms
-    - **Computer Vision** : Applying Neural Networks to study microstructure grain growth
+    - **Computer Vision** : Applying Neural Networks to study microstructure grain growth (Formally working with a professor)
     - **LLMs** : RAG reliant ML applications built using Django
     - **Container Networking** : Currently learning about Kubernetes to deploy applications based on personal ideas.
 ## 🛠️ Skills
