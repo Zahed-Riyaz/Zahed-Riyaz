@@ -20,3 +20,4 @@ I'm a passionate about Deep Learning with a keen interest in Quantum Deep Learni
 
 
 Thanks for visiting, and feel free to open an issue or pull request if you'd like to collaborate!
+Reach out to me on LinkedIn : [https://www.linkedin.com/in/zahed-riyaz/]
