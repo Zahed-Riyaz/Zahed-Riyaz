@@ -1,7 +1,9 @@
 # Hi there, I'm Zahed 👋
 
 Welcome to my GitHub profile! I'm a Physics major who is deeply interested in ML-based computer simulations and studying high energy physics (Quantum Field Theory). 
+
 I'm new to Open Source and aim to learn about various tech stacks by contributing.
+
 I'm passionate about Deep Learning with a keen interest in Quantum Deep Learning. Feel free to explore my repositories and contribute if you find something interesting!
 
 ## 🚀 About Me
