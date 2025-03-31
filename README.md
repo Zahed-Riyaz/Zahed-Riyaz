@@ -14,8 +14,13 @@ I'm passionate about Deep Learning with a keen interest in Quantum Deep Learning
 ## 🛠️ Skills
 
 - **Subjects** : Quantum Physics and Deep Learning are my passion.
-- **Frameworks/Technologies:** Very familiar with PyTorch and Tensorflow. Have built several beginner projects.
-- **Tools:** Familiar with containerisation of applications, currently learning networking and kubernetes.
+- **Frameworks/Technologies I am familiar with :**
+   - PyTorch and Tensorflow for deep learning.
+   - Intuitive understanding of Django for backend development.
+   - Docker and containerisation of applications.
+   - Deployment and scaling of containers.
+   - LangChain and HuggingFace.
+   - Physics informed Machine Learning
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
