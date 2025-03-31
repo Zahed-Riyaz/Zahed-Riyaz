@@ -7,7 +7,6 @@ I'm new to Open Source and aim to learn about various tech stacks by contributin
 
 - 🌱 I’m currently learning:
     - **Computer Vision** : Applying Neural Networks to study microstructure grain growth. (Formally working with a professor)
-    - 
     - **LLMs** : RAG reliant applications built using Django.
     - **Container Networking** : Currently learning about Kubernetes to deploy applications based on personal ideas.
     - **System Design** : Learning how applications are built from the ground up.
