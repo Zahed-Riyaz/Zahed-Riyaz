@@ -3,13 +3,11 @@
 Welcome to my GitHub profile! I'm a Physics major who is deeply interested in ML-based computer simulations and studying high energy physics (Quantum Field Theory). 
 
 I'm new to Open Source and aim to learn about various tech stacks by contributing.
-
-I'm passionate about Deep Learning with a keen interest in Quantum Deep Learning. Feel free to explore my repositories and contribute if you find something interesting!
-
 ## 🚀 About Me
 
 - 🌱 I’m currently learning:
     - **Computer Vision** : Applying Neural Networks to study microstructure grain growth. (Formally working with a professor)
+    - 
     - **LLMs** : RAG reliant applications built using Django.
     - **Container Networking** : Currently learning about Kubernetes to deploy applications based on personal ideas.
     - **System Design** : Learning how applications are built from the ground up.
