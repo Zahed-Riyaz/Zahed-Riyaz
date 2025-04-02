@@ -18,7 +18,6 @@ I'm new to Open Source and aim to learn about various tech stacks by contributin
    - Intuitive understanding of Django for backend development.
    - Docker and containerisation of applications.
    - Deployment and scaling of containers.
-   - LangChain and HuggingFace.
    - Physics informed Machine Learning
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
