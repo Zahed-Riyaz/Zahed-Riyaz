@@ -9,7 +9,7 @@ I'm new to Open Source and aim to learn about various tech stacks by contributin
     - **LLMs** : RAG reliant applications built using Django.
     - **System Design** : Learning how applications are built from the ground up.
     - **SPPARKS simualtions** : Learning how to write SPPARKS scripts to generate datasets for Materials Science simulations.
-## 🛠️ Skills
+  
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" />  
