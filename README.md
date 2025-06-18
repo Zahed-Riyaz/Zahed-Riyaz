@@ -6,20 +6,9 @@ I'm new to Open Source and aim to learn about various tech stacks by contributin
 ## 🚀 About Me
 
 - 🌱 I’m currently learning:
-    - **Computer Vision** : Applying Neural Networks to study microstructure grain growth. (Formally working with a professor)
     - **LLMs** : RAG reliant applications built using Django.
-    - **Container Networking** : Currently learning about Kubernetes to deploy applications based on personal ideas.
     - **System Design** : Learning how applications are built from the ground up.
 ## 🛠️ Skills
-
-- **Subjects** : Quantum Physics and Deep Learning are my passion.
-- **Frameworks/Technologies I am familiar with :**
-   - PyTorch and Tensorflow for deep learning.
-   - Intuitive understanding of Django for backend development.
-   - Docker and containerisation of applications.
-   - Deployment and scaling of containers.
-   - Physics informed Machine Learning
-
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" />  
@@ -35,7 +24,6 @@ I'm new to Open Source and aim to learn about various tech stacks by contributin
 </p>
 
 
-Thanks for visiting, and feel free to open an issue or pull request if you'd like to collaborate!
 Reach out to me on [LinkedIn](https://www.linkedin.com/in/zahed-riyaz/)
 
 
